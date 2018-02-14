@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BuluTangkisScore</string>
+    <string name="textview">TextView</string>
+    <string name="output">Tampilan Output</string>
+    <string name="app_nama">Tampilan Input</string>
+    <string name="Player1">Player1 :</string>
+    <string name="Player2">Player2 :</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="lakilaki">Laki-Laki</string>
+    <string name="jeniskelamin">Jenis Kelamin :</string>
+    <string name="kirimdata">Next</string>
+</resources>
